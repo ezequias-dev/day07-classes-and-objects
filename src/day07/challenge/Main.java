@@ -25,7 +25,7 @@ public class Main {
 
         user.showAccountSummary();
 
-        if(isValid ) {
+        if(isValid) {
             System.out.println("Valid registration");
         } else {
             System.out.println("Invalid registration");
